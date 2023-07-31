@@ -1,0 +1,6 @@
+name = "MyRegistry"
+uuid = "32ba9c01-19eb-4a2c-aa64-d66783ff8cbf"
+repo = "https://github.com/andresegido/MyRegistry"
+description = "A small registry for my Julia packages"
+
+[packages]
