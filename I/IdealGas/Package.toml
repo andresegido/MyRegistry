@@ -1,0 +1,3 @@
+name = "IdealGas"
+uuid = "30fbeecf-ffb7-46dc-b478-c8da4eefd92c"
+repo = "https://github.com/andresegido/IdealGas.jl"

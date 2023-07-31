@@ -4,3 +4,4 @@ repo = "https://github.com/andresegido/MyRegistry"
 description = "A small registry for my Julia packages"
 
 [packages]
+30fbeecf-ffb7-46dc-b478-c8da4eefd92c = { name = "IdealGas", path = "I/IdealGas" }
