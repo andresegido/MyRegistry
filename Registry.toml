@@ -5,4 +5,5 @@ description = "A small registry for my Julia packages"
 
 [packages]
 30fbeecf-ffb7-46dc-b478-c8da4eefd92c = { name = "IdealGas", path = "I/IdealGas" }
+42ba331d-5cb5-46e2-ab3c-303811c0b0ef = { name = "AeroGrid", path = "A/AeroGrid" }
 6bad4d00-7c4f-4689-8ad1-81d3c0b2abd8 = { name = "Atmosphere", path = "A/Atmosphere" }
